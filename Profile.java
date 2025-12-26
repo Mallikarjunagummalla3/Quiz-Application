@@ -1,4 +1,4 @@
-// thius is for the project
+// this is for the  project
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
